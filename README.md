@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**satikaj/satikaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+- Finishing a Bachelor of Computer Science 🎓
+- Passionate about web and mobile development 💻
+- Interested in AR/VR and spatial computing 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Projects
+
+- [OnTrack LMS](https://github.com/doubtfire-lms/doubtfire-deploy) - integrating the new Numbas feature - `Angular` `TypeScript` `Tailwind CSS` `Ruby on Rails` `Docker`
+- [todo-app](https://github.com/satikaj/todo-app) - experimenting with back-end development - `Nest.js` `Node.js` `TypeScript`
+
+#### Previous Projects
+
+- _Policy Generator_ - internal testing tool for Suncorp composed of a UI and Experience API - `React` `Java Spring Boot` `OpenShift` `Jenkins` `Artifactory`
+
+![policy generator ui](policy-generator.png)
